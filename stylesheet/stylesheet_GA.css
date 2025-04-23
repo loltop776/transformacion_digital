@@ -164,13 +164,36 @@ p{
 
     margin-top: 0%;
     width: 75%;
+    height: 20vh;
+    align-content: center;
 
 }
 
-.normal_image{
+.normal_image_X{
 
-    border: 1px solid black;
+    border: 2px solid black;
     border-radius: 15px;
+
+}
+
+.normal_image_Y{
+
+    border: 2px solid black;
+    border-radius: 15px;
+    height: 50vh;
+    width: 45%;
+    margin-left: 25%;
+
+}
+
+.image_flex_format{
+
+    width: 30%;
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 1%;
+    height: 20vh;
+
 
 }
 
@@ -212,6 +235,21 @@ p{
     width: 80%;
     text-decoration: none;
     color: black;
+
+}
+
+.flex_format_reverse{
+
+    display: flex;
+    width: 100%;
+    height: 20vh;
+    align-items: center;
+}
+
+.flex_format_reverse > img{
+
+    width: 50%;
+    margin: 1%;
 
 }
 
