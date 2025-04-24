@@ -450,3 +450,24 @@ p{
     padding-left: 85%;
   }
 
+
+
+
+
+
+
+
+/* Aprovisionamiento */
+
+#table {
+    width: 95%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+#table th, #table td {
+    text-align: center;
+    padding: 10px;
+    box-shadow: 3px 3px 10px rgb(0, 0, 0);
+}
+

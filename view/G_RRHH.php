@@ -28,7 +28,7 @@
         <section class="link_page">
 
 
-            <a href="./GD.php">Gestión Documental</a>
+            <a href="./Aprov.html">Aprovisionamiento</a>
 
 
         </section class="link_page">
@@ -37,7 +37,7 @@
         <section class="link_page">
 
 
-            <a href="">Página</a>
+            <a href="./GD.php">Gestión Documental</a>
 
 
         </section>

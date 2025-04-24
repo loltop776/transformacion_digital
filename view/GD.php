@@ -12,13 +12,14 @@
             <a href="./GA.html">Gestión Administrativa</a>
         </section>
         <section class="link_page">
-            <a href="./G_RRHH.php">RRHH</a>
+            <a href="./Aprov.html">Aprovisionamiento</a>
         </section class="link_page">
         <section class="link_page">
-            <a href="">Página</a>
+            <a href="./G_RRHH.php">RRHH</a>
         </section>
     </nav>
     <header>
+        <img src="../img/gd_header.png" alt="">
         <h1 class="syle1">Solución sobre la gestión documental </h1>
     </header>
     <main>
